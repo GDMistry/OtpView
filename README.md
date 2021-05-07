@@ -2,7 +2,7 @@
 
 Add like :
 
-  allprojects {
+        allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
@@ -11,7 +11,7 @@ Add like :
   
 Add dependency :
 
-  dependencies {
+ 	 dependencies {
 	        implementation 'com.github.GDMistry:OtpView:Tag'
 	}
   

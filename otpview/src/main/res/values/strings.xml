@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OtpView</string>
+    <string name="enter_otp">Enter OTP</string>
+</resources>
